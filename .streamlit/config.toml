@@ -1,0 +1,15 @@
+[client]
+wideMode = true
+
+[theme]
+base="dark"
+
+[server]
+headless = true
+runOnSave = false
+
+[browser]
+gatherUsageStats = false
+
+[layout]
+wideMode = true
